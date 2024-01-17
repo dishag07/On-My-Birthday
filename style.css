@@ -20,7 +20,10 @@ h2 {
     margin-bottom: auto;
 }
 
-#gallery {
-
-    width: ;
+#words {
+    margin-top: 1rem;
+    color:#613452;
+    background-color: white;
+    padding: 20rem, 20rem, 20rem, 20rem;
+    border-radius: 2pc;
 }
