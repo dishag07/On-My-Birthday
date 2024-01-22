@@ -21,9 +21,21 @@ h2 {
 }
 
 #words {
-    margin-top: 1rem;
     color:#613452;
     background-color: white;
-    padding: 20rem, 20rem, 20rem, 20rem;
     border-radius: 2pc;
+    font-size: large;
+    padding-top: 100px       ;
 }
+
+#market {
+    border: none;
+  }
+  
+  #market:hover{
+    background-color:#c6a9a9;
+  }
+  
+  #market:active{
+    background-color: grey;
+  }
