@@ -1,41 +1,53 @@
 body {
-    background-color: black;
-    padding-top: 45px;
+  background-color: black;
+  padding-top: 45px;
 
 }
 
 h1 {
-    color: rgb(236, 163, 227);
-    text-align: center;
-    font-family: ltc-broadway, sans-serif;
-    font-size: 6rem;
+  color: rgb(236, 163, 227);
+  text-align: center;
+  font-family: ltc-broadway, sans-serif;
+  font-size: 6rem;
 }
 
 h2 {
-    text-align: center;
-    color: white;
-    font-family: "owners", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    margin-bottom: auto;
+  text-align: center;
+  color: white;
+  font-family: "owners", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-bottom: auto;
 }
 
 #words {
-    color:#613452;
-    background-color: white;
-    border-radius: 2pc;
-    font-size: large;
-    padding-top: 100px       ;
+  color: #613452;
+  background-color: white;
+  font-size: large;
+  padding: 10px 20px 10px 20px;
 }
 
-#market {
-    border: none;
-  }
-  
-  #market:hover{
-    background-color:#c6a9a9;
-  }
-  
-  #market:active{
-    background-color: grey;
-  }
+button:hover {
+  background-color: white;
+  color:rgb(151, 75, 140); 
+}
+
+button:active {
+  background-color:  rgb(169, 124, 163);
+}
+
+#textbox {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+button {
+  height: 50px;
+  width: 300;
+  background-color: rgb(236, 163, 227);
+  border-radius: 10px;
+  margin-bottom: 80px;
+  text-align: center;
+  font-family: ltc-broadway, sans-serif;
+  margin-right: 25px;
+  align-content: center;
+}
