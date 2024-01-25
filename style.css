@@ -41,13 +41,22 @@ button:active {
   margin-bottom: 20px;
 }
 button {
-  height: 50px;
-  width: 300;
+  height: 70px;
+  width: 300px;
   background-color: rgb(236, 163, 227);
   border-radius: 10px;
   margin-bottom: 80px;
   text-align: center;
   font-family: ltc-broadway, sans-serif;
-  margin-right: 25px;
-  align-content: center;
+  margin-right: 25px;  
+  font-size: larger;
+}
+
+#cakepic {
+ text-align: center;
+ height:100px
+}
+
+pleasecenter {
+  justify-content: center;
 }
