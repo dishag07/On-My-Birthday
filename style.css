@@ -25,6 +25,7 @@ h2 {
   background-color: white;
   font-size: large;
   padding: 10px 20px 10px 20px;
+
 }
 
 button:hover {
@@ -59,4 +60,14 @@ button {
 
 pleasecenter {
   justify-content: center;
+}
+
+#me {
+  height:540px;
+  width: 530px;
+}
+
+#meee {
+  height:540px;
+  width: 530px;
 }
