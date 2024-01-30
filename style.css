@@ -23,8 +23,10 @@ h2 {
 #words {
   color: #613452;
   background-color: white;
-  font-size: large;
   padding: 10px 20px 10px 20px;
+  font-family: "dovetail-mvb", serif;
+  font-weight: 500;
+  font-style: normal;
 
 }
 
@@ -34,7 +36,7 @@ button:hover {
 }
 
 button:active {
-  background-color:  rgb(169, 124, 163);
+  background-color:  #a97ca3;
 }
 
 #textbox {
@@ -71,3 +73,17 @@ pleasecenter {
   height:640px;
   width: 630px;
 }
+
+#uhm {
+  color: #613452;
+  background-color: white;
+  font-size: large;
+  padding: 10px 20px 10px 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: "dovetail-mvb", serif;
+  font-weight: 500;
+  font-style: normal;
+  text-align: center;
+}
+
